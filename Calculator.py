@@ -140,4 +140,3 @@ exp.grid(row=4, column=2)
 delete.grid(row=5,column=2)
 
 root.mainloop()
-#hi
